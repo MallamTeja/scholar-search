@@ -46,19 +46,6 @@ yarn dev
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## How to Get a Gemini API Key
-
-1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Sign in with your Google account
-3. Create a new API key
-4. Copy the API key and add it to your `.env.local` file
-
-## Usage
-
-1. Enter a search query in the search bar
-2. View the AI-generated search results
-3. Filter results by content type using the tabs
-4. Click on results to view the source or download content
 
 ## Technologies Used
 
